@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141240334828",
+    "project_id": "lab7-iot-9e036",
+    "storage_bucket": "lab7-iot-9e036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141240334828:android:bd0ef7956da5fe422528c9",
+        "android_client_info": {
+          "package_name": "pe.pucp.lab7iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDFuy4ddzmKpGbz3Np9uL0FIRQQSULE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
